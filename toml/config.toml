@@ -1,0 +1,4 @@
+host = "192.116.0.10"
+user = "meu_usuario"
+pass = "1234abc?"
+db = "aprendagolang"
