@@ -1,2 +1,6 @@
-# snippets
-Repositório dos snippets usados nos posts do blog
+# Snippets
+Repositório dos snippets usados nos posts do blog [aprendagolang.com.br](https://aprendagolang.com.br)
+
+## Link dos posts
+
+[Carregando configurações de arquivos TOML](http://aprendagolang.com.br/2021/10/25/carregando-configuracoes-de-arquivos-toml/)
