@@ -1,0 +1,5 @@
+{"level":"info","time":"2021-12-17T06:15:39-03:00","message":"Olá Mundo!"}
+{"level":"warn","time":"2021-12-17T06:15:39-03:00","message":"CUIDADO!!!"}
+{"level":"debug","time":"2021-12-17T06:15:42-03:00","message":"Isso é só para debug"}
+{"level":"info","time":"2021-12-17T06:15:42-03:00","message":"Olá Mundo!"}
+{"level":"warn","time":"2021-12-17T06:15:42-03:00","message":"CUIDADO!!!"}
