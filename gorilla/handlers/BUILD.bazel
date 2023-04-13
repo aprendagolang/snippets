@@ -1,0 +1,12 @@
+load("@io_bazel_rules_go//go:def.bzl", "go_library")
+
+go_library(
+    name = "handlers",
+    srcs = [
+        "hello.go",
+        "person.go",
+    ],
+    importpath = "github.com/aprendagolang/gorilla/handlers",
+    visibility = ["//visibility:public"],
+    deps = ["@com_github_gorilla_mux//:go_default_library"],
+)
